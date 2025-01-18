@@ -1,1 +1,1 @@
-Estudo de caso empresa de tecnologia que implementou processo agile.
+A adoção de metodologias ágeis tem se tornado um diferencial competitivo essencial para empresas que buscam maior flexibilidade, eficiência e inovação. Este estudo de caso detalha a jornada de uma empresa de tecnologia na implementação do Agile, os desafios enfrentados, soluções adotadas e os resultados alcançados.
